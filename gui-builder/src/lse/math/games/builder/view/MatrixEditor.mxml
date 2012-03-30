@@ -295,7 +295,7 @@
 				</s:HGroup>
 			</s:VGroup>
 			<s:VGroup width="50%" paddingBottom="5" paddingLeft="5" paddingRight="5" paddingTop="5">
-				<s:Label text="Player 1 Strategies"/>
+				<s:Label text="Player 2 Strategies"/>
 				<s:HGroup width="100%" verticalAlign="middle" toolTip="Number of strategies for this player">
 					<s:Label text="Num: " />
 					<s:TextInput id="pl2NumStrBox" text="{pl2NumStr}" widthInChars="3" restrict="0-9"
